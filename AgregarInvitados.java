@@ -29,6 +29,6 @@ public class AgregarInvitados {
             out.print(NumCuarto);
             out.print("\t");
             out.println(VectorInvitados[NumCuarto]);
-        }
+        }//Hola mundo
     }
 }
