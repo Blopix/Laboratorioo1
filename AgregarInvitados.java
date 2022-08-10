@@ -9,7 +9,7 @@ public class AgregarInvitados {
         String respuesta;
         VectorInvitados = new int[10];
 
-        //Inicializamos el vector
+        //Inicializamos el matriz
         for (int Numcuartos = 0; Numcuartos < 10; Numcuartos++) {
             VectorInvitados[Numcuartos] = 0;
         }
